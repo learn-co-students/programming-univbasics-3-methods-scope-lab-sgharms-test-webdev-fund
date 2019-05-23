@@ -14,7 +14,7 @@ variables, to use!
 
 ## Define a Local Variable
 
-Open up `lib/catch_phrases.rb`. You should see the following method:
+Open up `lib/catch_testphrases.rb`. You should see the following method:
 
 ```ruby
 def mario
